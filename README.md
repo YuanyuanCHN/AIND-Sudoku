@@ -3,11 +3,12 @@
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
-A: *Student should provide answer here*
+A: Naked Twins is a new logic to eliminate digits. In this way we have more constrains for all possible solutions, which could make the solving process faster. 
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
-A: *Student should provide answer here*
+A: Diagonal Sudoku compaire to normal Sudoku, there are two more constrains for the solutions, because there is two more units that cannot contain same digit. 
+To solve Diagonal Sudoku problem we just need to add two more units in the unitlist of normal sudoku problem.
 
 ### Install
 
